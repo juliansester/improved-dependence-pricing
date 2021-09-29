@@ -18,7 +18,7 @@ improvement of resultant price bounds in several examples, which also cover real
 The files are split into the *.ipynp notebooks, containing the Example and the *.py files containing useful function.
 
 Notebooks:
-The file 'Example 5.3' contains the python notebook related to Example 5.3.
+The file 'Example 5.3' contains the python notebook related to Example 5.3.\n
 The file 'Example 5.4_Computations' contains the python notebook related to the computations for Example 5.4.
 The file 'Example 5.4_Plot' contains the python notebook which reads the data created in Example 5.4_Computations, and it creates a plot.
 The file 'Example 5.6' contains the python notebook related to Example 5.6.
