@@ -19,7 +19,7 @@ improvement of resultant price bounds in several examples, which also cover real
 
 Can be found [here]()
 
-##Content
+## Content
 The files are split into the *.ipynp notebooks, containing the Example and the *.py files containing useful function.
 
 Notebooks:
