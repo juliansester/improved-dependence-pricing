@@ -14,7 +14,12 @@ optimal transport approach. In particular, we derive an adjusted pricing-hedging
 provide further evidence for the relevance and tractability of our approach we illustrate the
 improvement of resultant price bounds in several examples, which also cover real market data.
 
-## Usage
+
+# Preprint
+
+Can be found [here]()
+
+##Content
 The files are split into the *.ipynp notebooks, containing the Example and the *.py files containing useful function.
 
 Notebooks:
